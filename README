@@ -1,0 +1,8 @@
+This is a simple lexical analyzer for the C language. The repository contains an example program in C for testing.
+Principal.py is the principal file of the project, just run this file to test the analyzer with default parameters.
+The size of buffer and the output can be changed as you wish.
+
+
+Authors:
+1. Christian R. F. Gomes - christianrfg@gmail.com
+2. Pedro Souza - pedronhds@gmail.com 
