@@ -16,7 +16,12 @@ sudo apt-get install python3.5
 ## Running the tests
 
 Principal.py is the principal file of the project, just run this file to test the analyzer with default parameters.
-The size of buffer and the output can be changed as you wish.
+
+```
+python Principal.py
+```
+
+The size of buffer, output and *.c* program can be changed as you wish.
 
 ## Built With
 
