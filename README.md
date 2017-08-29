@@ -2,6 +2,8 @@
 
 This is a simple lexical analyzer for the C language. The repository contains an example program in C for testing.
 
+The [tokens_lexemes.pdf](https://github.com/christianrfg/lexical-analyzer/blob/master/tokens_lexemes.pdf) file shows the lexemes recognized by the lexical analyzer.
+
 ### Prerequisites
 
 Python 3.5.0 or last version...
